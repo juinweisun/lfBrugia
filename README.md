@@ -1,8 +1,7 @@
 # lfBrugia
 about Lymphatic filariasis and parasite
 
-
-                                              象皮病(Lymphatic filariasis)與其主要病原間比較
+象皮病(Lymphatic filariasis)與其主要病原間比較
 
    象皮病又稱為淋巴絲蟲病，絲蟲藉病媒蚊侵入人體淋巴系統引起的疾病，廣佈全球許多開發中國家，尤其以非洲及亞洲為主，而影響人類已長達約4000年，自西元前的古埃及以及古希臘皆有疑似為紀錄象皮病的文獻出現。可分為急性期與慢性期。 
 
@@ -16,7 +15,8 @@ about Lymphatic filariasis and parasite
 
 主要感染引起象皮病的病原為班氏絲蟲、馬來絲蟲、帝汶絲蟲，三者在生活史上相當相似，主要不同之處在於因其絲蟲病媒蚊的活動區域而形成三者具有不同的疫區範圍。
 
-                                              班氏絲蟲(Wuchereria bancrofti)
+班氏絲蟲(Wuchereria bancrofti)
    全球約90%的象皮病病原皆由其引起，病媒蚊有：斑蚊、瘧蚊、家蚊及沼蚊，分布範圍廣泛，主要在熱帶地區。
 班氏絲蟲寄生人體範圍廣，亦常寄生於生殖器內淋巴管，可發生精索炎、附睾炎及睾丸炎，以及睪丸與乳房的腫大，而馬來絲蟲僅造成膝部以下的下肢腫脹。
+
 <img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E6%96%91%E6%B0%8F%E7%B5%B2%E8%9F%B2.png' width= '10'>
