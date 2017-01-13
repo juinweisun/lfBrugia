@@ -19,27 +19,26 @@ about Lymphatic filariasis and parasite
    全球約90%的象皮病病原皆由其引起，病媒蚊有：斑蚊、瘧蚊、家蚊及沼蚊，分布範圍廣泛，主要在熱帶地區。
 班氏絲蟲寄生人體範圍廣，亦常寄生於生殖器內淋巴管，可發生精索炎、附睾炎及睾丸炎，以及睪丸與乳房的腫大，而馬來絲蟲僅造成膝部以下的下肢腫脹。
 
-<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E6%96%91%E6%B0%8F%E7%B5%B2%E8%9F%B2.png' width='150'>
+<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E6%96%91%E6%B0%8F%E7%B5%B2%E8%9F%B2.png' width='500'>
 
 馬來絲蟲(Brugia malayi)：
 其病媒蚊：斑蚊、瘧蚊、苛蚊及沼蚊，僅存在南、東南亞地區 ，因此馬來絲蟲僅分布在亞洲地區，佔全世界象皮病患者約10%，班氏與馬來絲蟲都具夜現週期性，但班氏絲蟲的微絲蚴出現高峰期在10 PM - 2 AM，而後者出現的高峰期在8 PM - 4 AM。
 
-<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E9%A6%AC%E4%BE%86%E7%B5%B2%E8%9F%B2.png' width= '150'>
+<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E9%A6%AC%E4%BE%86%E7%B5%B2%E8%9F%B2.png' width= '500'>
 
 帝汶絲蟲(Brugia timori)：
 病媒蚊僅有瘧蚊屬的Anopheles barbiostris一種，而傳染範圍受限於印尼群島中的小巽他群島，感染人數相當少量。
 
 一般感染人類絲蟲的生活史：
 
-<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E5%AF%84%E7%94%9F%E8%9F%B2%E7%94%9F%E6%B4%BB%E5%8F%B2.png' width= '150'>
+<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E5%AF%84%E7%94%9F%E8%9F%B2%E7%94%9F%E6%B4%BB%E5%8F%B2.png' width= '500'>
 
 三種常見象皮病病原比較簡表：
 
-<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E5%AF%84%E7%94%9F%E8%9F%B2%E6%AF%94%E8%BC%83.png' width= '150'>
+<img src='https://raw.githubusercontent.com/juinweisun/lfBrugia/master/%E5%AF%84%E7%94%9F%E8%9F%B2%E6%AF%94%E8%BC%83.png' width= '500'>
 
 
 
-
-資料來源：
-衛生福利部疾病管制署http://www.cdc.gov.tw/diseaseinfo.aspx?treeid=8d54c504e820735b&nowtreeid=d7d685117fe5f889&tid=DAB2C8BFA4E99546
+#參考資料
+>[衛生福利部疾病管制署](http://www.cdc.gov.tw/diseaseinfo.aspx?treeid=8d54c504e820735b&nowtreeid=d7d685117fe5f889&tid=DAB2C8BFA4E99546)
 
